@@ -1,0 +1,62 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "KAINNUSA" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e6]:
+          - link "Home" [ref=e7] [cursor=pointer]:
+            - /url: /
+          - link "Produk" [ref=e8] [cursor=pointer]:
+            - /url: /products
+          - link "Best Seller" [ref=e9] [cursor=pointer]:
+            - /url: /best-seller
+          - link "Kontak" [ref=e10] [cursor=pointer]:
+            - /url: /contact
+          - link "Admin" [ref=e11] [cursor=pointer]:
+            - /url: /login
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - heading "Our Products" [level=1] [ref=e14]
+      - paragraph [ref=e15]: Jelajahi koleksi kain kami
+      - button "Semua" [ref=e17]
+  - contentinfo [ref=e51]:
+    - generic [ref=e52]:
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - heading "KAINNUSA" [level=3] [ref=e55]
+          - paragraph [ref=e56]: Katalog kain Indonesia dengan visibilitas produk tanpa kompleksitas checkout.
+        - generic [ref=e57]:
+          - heading "Navigasi" [level=4] [ref=e58]
+          - list [ref=e59]:
+            - listitem [ref=e60]:
+              - link "Produk" [ref=e61] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=e62]:
+              - link "Best Seller" [ref=e63] [cursor=pointer]:
+                - /url: /best-seller
+            - listitem [ref=e64]:
+              - link "Kontak" [ref=e65] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e66]:
+          - heading "Kategori" [level=4] [ref=e67]
+          - list [ref=e68]:
+            - listitem [ref=e69]:
+              - link "Batik" [ref=e70] [cursor=pointer]:
+                - /url: /products?category=batik
+            - listitem [ref=e71]:
+              - link "Tenun" [ref=e72] [cursor=pointer]:
+                - /url: /products?category=tenun
+            - listitem [ref=e73]:
+              - link "Kaos" [ref=e74] [cursor=pointer]:
+                - /url: /products?category=kaos
+            - listitem [ref=e75]:
+              - link "Muslin" [ref=e76] [cursor=pointer]:
+                - /url: /products?category=muslin
+            - listitem [ref=e77]:
+              - link "Linen" [ref=e78] [cursor=pointer]:
+                - /url: /products?category=linen
+      - generic [ref=e79]: © 2026 KainNusa. Semua hak dilindungi.
+  - link "Chat WhatsApp" [ref=e80] [cursor=pointer]:
+    - /url: https://wa.me/6281234567890
+  - button "Open Next.js Dev Tools" [ref=e88] [cursor=pointer]

@@ -1,0 +1,1338 @@
+{
+  "categories": [
+    {
+      "id": "cat-batik",
+      "name": "Batik",
+      "slug": "batik"
+    },
+    {
+      "id": "cat-tenun",
+      "name": "Tenun",
+      "slug": "tenun"
+    },
+    {
+      "id": "cat-kaos",
+      "name": "Kaos",
+      "slug": "kaos"
+    },
+    {
+      "id": "cat-muslin",
+      "name": "Muslin",
+      "slug": "muslin"
+    },
+    {
+      "id": "cat-linen",
+      "name": "Linen",
+      "slug": "linen"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-nlrsipbk03rd",
+      "name": "Batik Batik Parang",
+      "slug": "batik-parang",
+      "categoryId": "cat-batik",
+      "stock": 12,
+      "specifications": {
+        "material": "Katun",
+        "weight": "180 gsm",
+        "weave": "Plain"
+      },
+      "isBestSeller": true,
+      "variants": [
+        {
+          "id": "var-rpcbo1kf03rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1015/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-ybyotpwu03rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1025/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-q02plfqo03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1035/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-e0y2bwse03rd",
+        "prod-8wl5kk2203rd",
+        "prod-e68cxike03rd",
+        "prod-jygmvjeq03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.064Z",
+      "updatedAt": "2026-11-20T16:55:41.064Z"
+    },
+    {
+      "id": "prod-e0y2bwse03rd",
+      "name": "Batik Batik Tulis",
+      "slug": "batik-tulis",
+      "categoryId": "cat-batik",
+      "stock": 3,
+      "specifications": {
+        "material": "Linen",
+        "weight": "220 gsm",
+        "weave": "Twill"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-ke0j8qhc03rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1025/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-pxpnqvcd03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1035/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-jmh9ephp03rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1043/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-ryw2lbse03rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1050/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-nlrsipbk03rd",
+        "prod-8wl5kk2203rd",
+        "prod-e68cxike03rd",
+        "prod-jygmvjeq03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-8wl5kk2203rd",
+      "name": "Batik Batik Trapery",
+      "slug": "batik-trapery",
+      "categoryId": "cat-batik",
+      "stock": 8,
+      "specifications": {
+        "material": "Sutra",
+        "weight": "90 gsm",
+        "weave": "Satine"
+      },
+      "isBestSeller": true,
+      "variants": [
+        {
+          "id": "var-9ghlvrjr03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1035/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-aeocyj0303rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1043/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-qu0m74po03rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1050/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-nlrsipbk03rd",
+        "prod-e0y2bwse03rd",
+        "prod-e68cxike03rd",
+        "prod-jygmvjeq03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-e68cxike03rd",
+      "name": "Batik Batik Sidomukti",
+      "slug": "batik-sidomukti",
+      "categoryId": "cat-batik",
+      "stock": 0,
+      "specifications": {
+        "material": "Bambu",
+        "weight": "160 gsm",
+        "weave": "Plain"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-22qnrfyg03rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1043/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-em9rqees03rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1050/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-45umj5qr03rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1060/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-yk1fcz3a03rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1069/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-nlrsipbk03rd",
+        "prod-e0y2bwse03rd",
+        "prod-8wl5kk2203rd",
+        "prod-jygmvjeq03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-jygmvjeq03rd",
+      "name": "Batik Batik Ceplok",
+      "slug": "batik-ceplok",
+      "categoryId": "cat-batik",
+      "stock": 15,
+      "specifications": {
+        "material": "Woll",
+        "weight": "300 gsm",
+        "weave": "Herringbone"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-ufr6r4m303rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1050/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-lc8wehyv03rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1060/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-hz9q65o703rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1069/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-nlrsipbk03rd",
+        "prod-e0y2bwse03rd",
+        "prod-8wl5kk2203rd",
+        "prod-e68cxike03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-ssfqelyi03rd",
+      "name": "Tenun Tenun Ikat",
+      "slug": "tenun-ikat",
+      "categoryId": "cat-tenun",
+      "stock": 6,
+      "specifications": {
+        "material": "Organic Cotton",
+        "weight": "200 gsm",
+        "weave": "Jersey"
+      },
+      "isBestSeller": true,
+      "variants": [
+        {
+          "id": "var-0jn3weg903rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1060/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-lnjk3kn803rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1069/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-vb2jbook03rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1074/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-0z1xafth03rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1080/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-1tiq7otg03rd",
+        "prod-n07g7x7u03rd",
+        "prod-8ymidyvl03rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-1tiq7otg03rd",
+      "name": "Tenun Tenun Udeng",
+      "slug": "tenun-udeng",
+      "categoryId": "cat-tenun",
+      "stock": 4,
+      "specifications": {
+        "material": "Katun",
+        "weight": "180 gsm",
+        "weave": "Plain"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-p0hq66w503rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1069/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-5hcwyfmv03rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1074/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-48vlru0h03rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1080/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-ssfqelyi03rd",
+        "prod-n07g7x7u03rd",
+        "prod-8ymidyvl03rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-n07g7x7u03rd",
+      "name": "Tenun Tenun Songsong",
+      "slug": "tenun-songsong",
+      "categoryId": "cat-tenun",
+      "stock": 9,
+      "specifications": {
+        "material": "Linen",
+        "weight": "220 gsm",
+        "weave": "Twill"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-8ygbkow003rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1074/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-28jks3m103rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1080/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-lg43corh03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1084/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-76vtjo1j03rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1015/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-ssfqelyi03rd",
+        "prod-1tiq7otg03rd",
+        "prod-8ymidyvl03rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-8ymidyvl03rd",
+      "name": "Tenun Tenun Songket",
+      "slug": "tenun-songket",
+      "categoryId": "cat-tenun",
+      "stock": 2,
+      "specifications": {
+        "material": "Sutra",
+        "weight": "90 gsm",
+        "weave": "Satine"
+      },
+      "isBestSeller": true,
+      "variants": [
+        {
+          "id": "var-now6xzj503rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1080/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-tmmjvysh03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1084/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-2i2zrdv803rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1015/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-ssfqelyi03rd",
+        "prod-1tiq7otg03rd",
+        "prod-n07g7x7u03rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-a11tddeh03rd",
+      "name": "Kaos Kaos Katun",
+      "slug": "kaos-katun",
+      "categoryId": "cat-kaos",
+      "stock": 50,
+      "specifications": {
+        "material": "Bambu",
+        "weight": "160 gsm",
+        "weave": "Plain"
+      },
+      "isBestSeller": true,
+      "variants": [
+        {
+          "id": "var-79hn1toj03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1084/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-dz8uhuem03rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1015/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-k1wn06nl03rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1025/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-ufkcnsf403rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1035/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-of02x5j103rd",
+        "prod-478m0nrf03rd",
+        "prod-u8ma33r703rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-of02x5j103rd",
+      "name": "Kaos Kaos Rib",
+      "slug": "kaos-rib",
+      "categoryId": "cat-kaos",
+      "stock": 30,
+      "specifications": {
+        "material": "Woll",
+        "weight": "300 gsm",
+        "weave": "Herringbone"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-eaxbodoy03rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1015/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-yaums2tt03rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1025/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-2y2c51pd03rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1035/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-a11tddeh03rd",
+        "prod-478m0nrf03rd",
+        "prod-u8ma33r703rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-478m0nrf03rd",
+      "name": "Kaos Kaos Knit",
+      "slug": "kaos-knit",
+      "categoryId": "cat-kaos",
+      "stock": 25,
+      "specifications": {
+        "material": "Organic Cotton",
+        "weight": "200 gsm",
+        "weave": "Jersey"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-aj1gg01z03rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1025/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-oez8oqa303rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1035/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-ww9ral1n03rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1043/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-aaopniv403rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1050/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-a11tddeh03rd",
+        "prod-of02x5j103rd",
+        "prod-u8ma33r703rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-u8ma33r703rd",
+      "name": "Kaos Kaos Crepe",
+      "slug": "kaos-crepe",
+      "categoryId": "cat-kaos",
+      "stock": 18,
+      "specifications": {
+        "material": "Katun",
+        "weight": "180 gsm",
+        "weave": "Plain"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-28ktnks603rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1035/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-es0ukiyh03rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1043/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-n6qa3lw103rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1050/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-a11tddeh03rd",
+        "prod-of02x5j103rd",
+        "prod-478m0nrf03rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-dw4cuima03rd",
+      "name": "Muslin Muslin Fine",
+      "slug": "muslin-fine",
+      "categoryId": "cat-muslin",
+      "stock": 20,
+      "specifications": {
+        "material": "Linen",
+        "weight": "220 gsm",
+        "weave": "Twill"
+      },
+      "isBestSeller": true,
+      "variants": [
+        {
+          "id": "var-63gf962703rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1043/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-rrjlb1ly03rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1050/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-dvy0hrqy03rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1060/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-16xhhmhm03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1069/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-eqnngzbh03rd",
+        "prod-hw214cw303rd",
+        "prod-nlrsipbk03rd",
+        "prod-e0y2bwse03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-eqnngzbh03rd",
+      "name": "Muslin Muslin Double",
+      "slug": "muslin-double",
+      "categoryId": "cat-muslin",
+      "stock": 14,
+      "specifications": {
+        "material": "Sutra",
+        "weight": "90 gsm",
+        "weave": "Satine"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-rvrmrqt603rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1050/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-8z80wnfs03rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1060/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-oloxmj9m03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1069/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-dw4cuima03rd",
+        "prod-hw214cw303rd",
+        "prod-nlrsipbk03rd",
+        "prod-e0y2bwse03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-hw214cw303rd",
+      "name": "Muslin Muslin Lights",
+      "slug": "muslin-lights",
+      "categoryId": "cat-muslin",
+      "stock": 7,
+      "specifications": {
+        "material": "Bambu",
+        "weight": "160 gsm",
+        "weave": "Plain"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-cm60e5w803rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1060/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-7invn0ok03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1069/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-q8yd8fzn03rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1074/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-nqxrx1vk03rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1080/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-dw4cuima03rd",
+        "prod-eqnngzbh03rd",
+        "prod-nlrsipbk03rd",
+        "prod-e0y2bwse03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-9ta9yrq603rd",
+      "name": "Linen Linen Jap",
+      "slug": "linen-jap",
+      "categoryId": "cat-linen",
+      "stock": 11,
+      "specifications": {
+        "material": "Woll",
+        "weight": "300 gsm",
+        "weave": "Herringbone"
+      },
+      "isBestSeller": true,
+      "variants": [
+        {
+          "id": "var-rlg5rnbr03rd",
+          "colorName": "Hijau Zaitun",
+          "colorCode": "#556B2F",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1069/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-ejv3pvz603rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1074/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-wp0qqr9603rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1080/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-jq5kdkwg03rd",
+        "prod-1547tqmi03rd",
+        "prod-sqt4o97303rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-jq5kdkwg03rd",
+      "name": "Linen Linen Irish",
+      "slug": "linen-irish",
+      "categoryId": "cat-linen",
+      "stock": 5,
+      "specifications": {
+        "material": "Organic Cotton",
+        "weight": "200 gsm",
+        "weave": "Jersey"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-s0suodr103rd",
+          "colorName": "Coklat Tanah",
+          "colorCode": "#A8795A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1074/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-x6c42sy503rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1080/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-sxkuhc2y03rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1084/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-vdqqrspy03rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1015/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-9ta9yrq603rd",
+        "prod-1547tqmi03rd",
+        "prod-sqt4o97303rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-1547tqmi03rd",
+      "name": "Linen Linen Mixed",
+      "slug": "linen-mixed",
+      "categoryId": "cat-linen",
+      "stock": 16,
+      "specifications": {
+        "material": "Katun",
+        "weight": "180 gsm",
+        "weave": "Plain"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-7wi8yelj03rd",
+          "colorName": "Krem Gading",
+          "colorCode": "#F5F1E8",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1080/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-xxiue0x703rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1084/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-elv9evfr03rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1015/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-9ta9yrq603rd",
+        "prod-jq5kdkwg03rd",
+        "prod-sqt4o97303rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    },
+    {
+      "id": "prod-sqt4o97303rd",
+      "name": "Linen Linen Heavy",
+      "slug": "linen-heavy",
+      "categoryId": "cat-linen",
+      "stock": 3,
+      "specifications": {
+        "material": "Linen",
+        "weight": "220 gsm",
+        "weave": "Twill"
+      },
+      "isBestSeller": false,
+      "variants": [
+        {
+          "id": "var-co19fw7u03rd",
+          "colorName": "Emas Pucat",
+          "colorCode": "#D4C09A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1084/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-4y10x1b203rd",
+          "colorName": "Abu Batu",
+          "colorCode": "#8A8A8A",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1015/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        },
+        {
+          "id": "var-hczck01q03rd",
+          "colorName": "Biru Navy",
+          "colorCode": "#1B2A4A",
+          "modelName": "Motif Tradisional",
+          "imageUrl": "https://picsum.photos/seed/1025/1200/900",
+          "availableSizes": [
+            "0.5 m",
+            "1.1 m",
+            "2.5 m"
+          ]
+        },
+        {
+          "id": "var-wfuftlix03rd",
+          "colorName": "Merah Marun",
+          "colorCode": "#7B1E26",
+          "modelName": "Motif Geometris",
+          "imageUrl": "https://picsum.photos/seed/1035/1200/900",
+          "availableSizes": [
+            "1.1 m",
+            "2.5 m",
+            "5 m"
+          ]
+        }
+      ],
+      "relatedIds": [
+        "prod-9ta9yrq603rd",
+        "prod-jq5kdkwg03rd",
+        "prod-1547tqmi03rd",
+        "prod-nlrsipbk03rd"
+      ],
+      "createdAt": "2026-11-20T16:55:41.065Z",
+      "updatedAt": "2026-11-20T16:55:41.065Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": "admin-1",
+      "email": "admin@kainnusa.com",
+      "password": "admin123"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "KAINNUSA" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e6]:
+          - link "Home" [ref=e7] [cursor=pointer]:
+            - /url: /
+          - link "Produk" [ref=e8] [cursor=pointer]:
+            - /url: /products
+          - link "Best Seller" [ref=e9] [cursor=pointer]:
+            - /url: /best-seller
+          - link "Kontak" [ref=e10] [cursor=pointer]:
+            - /url: /contact
+          - link "Admin" [ref=e11] [cursor=pointer]:
+            - /url: /login
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e61]:
+        - navigation [ref=e62]:
+          - link "Home" [ref=e63] [cursor=pointer]:
+            - /url: /
+          - text: /
+          - link "Produk" [ref=e64] [cursor=pointer]:
+            - /url: /products
+          - text: /
+          - link "Batik" [ref=e65] [cursor=pointer]:
+            - /url: /products?category=batik
+          - text: / Batik Batik Parang
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - img "Batik Batik Parang" [ref=e184]
+            - generic [ref=e70]: Paling Laris
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - paragraph [ref=e73]: Batik
+              - heading "Batik Batik Parang" [level=1] [ref=e74]
+              - generic [ref=e75]: "Stok tersedia: 12"
+            - generic [ref=e77]:
+              - heading "Spesifikasi Teknis" [level=2] [ref=e78]
+              - generic [ref=e79]:
+                - generic [ref=e80]:
+                  - paragraph [ref=e81]: material
+                  - paragraph [ref=e82]: Katun
+                - generic [ref=e83]:
+                  - paragraph [ref=e84]: weight
+                  - paragraph [ref=e85]: 180 gsm
+                - generic [ref=e86]:
+                  - paragraph [ref=e87]: weave
+                  - paragraph [ref=e88]: Plain
+            - generic [ref=e89]:
+              - generic [ref=e90]:
+                - paragraph [ref=e91]: Warna / Model
+                - generic [ref=e92]:
+                  - button [ref=e93]:
+                    - img "Biru Navy" [ref=e94]
+                  - button [active] [ref=e96]:
+                    - img "Merah Marun" [ref=e97]
+                  - button [ref=e98]:
+                    - img "Hijau Zaitun" [ref=e99]
+              - generic [ref=e100]:
+                - paragraph [ref=e101]: Ukuran
+                - generic [ref=e102]:
+                  - button "1.1 m" [ref=e104]
+                  - button "2.5 m" [ref=e105]
+                  - button "5 m" [ref=e186]
+              - link "Tanya Produk Ini" [ref=e106] [cursor=pointer]:
+                - /url: https://wa.me/6281234567890?text=Halo%20Admin%20KainNusa%2C%20saya%20tertarik%20dengan%20Batik%20Batik%20Parang%20berwarna%20Merah%20Marun%20dan%20ukuran%201.1%20m.
+              - paragraph [ref=e109]:
+                - text: "Pesan otomatis: produk"
+                - strong [ref=e110]: Batik Batik Parang
+                - text: ", warna"
+                - strong [ref=e111]: Merah Marun
+                - text: ukuran
+                - strong [ref=e112]: 1.1 m
+      - generic [ref=e113]:
+        - heading "Produk Terkait" [level=2] [ref=e114]
+        - generic [ref=e115]:
+          - link "Batik Batik Tulis Sisa 3 Batik Batik Batik Tulis Linen · 220 gsm Merah Marun Hijau Zaitun Coklat Tanah Krem Gading" [ref=e117] [cursor=pointer]:
+            - /url: /products/batik-tulis
+            - generic [ref=e118]:
+              - img "Batik Batik Tulis" [ref=e119]
+              - generic [ref=e120]: Sisa 3
+            - generic [ref=e121]:
+              - paragraph [ref=e122]: Batik
+              - heading "Batik Batik Tulis" [level=3] [ref=e123]
+              - paragraph [ref=e124]: Linen · 220 gsm
+              - generic [ref=e125]:
+                - generic "Merah Marun" [ref=e126]:
+                  - img "Merah Marun" [ref=e127]
+                - generic "Hijau Zaitun" [ref=e128]:
+                  - img "Hijau Zaitun" [ref=e129]
+                - generic "Coklat Tanah" [ref=e130]:
+                  - img "Coklat Tanah" [ref=e131]
+                - generic "Krem Gading" [ref=e132]:
+                  - img "Krem Gading" [ref=e133]
+          - link "Batik Batik Trapery Paling Laris Batik Batik Batik Trapery Sutra · 90 gsm Hijau Zaitun Coklat Tanah Krem Gading" [ref=e135] [cursor=pointer]:
+            - /url: /products/batik-trapery
+            - generic [ref=e136]:
+              - img "Batik Batik Trapery" [ref=e137]
+              - generic [ref=e138]: Paling Laris
+            - generic [ref=e139]:
+              - paragraph [ref=e140]: Batik
+              - heading "Batik Batik Trapery" [level=3] [ref=e141]
+              - paragraph [ref=e142]: Sutra · 90 gsm
+              - generic [ref=e143]:
+                - generic "Hijau Zaitun" [ref=e144]:
+                  - img "Hijau Zaitun" [ref=e145]
+                - generic "Coklat Tanah" [ref=e146]:
+                  - img "Coklat Tanah" [ref=e147]
+                - generic "Krem Gading" [ref=e148]:
+                  - img "Krem Gading" [ref=e149]
+          - link "Batik Batik Sidomukti Habis Batik Batik Batik Sidomukti Bambu · 160 gsm Coklat Tanah Krem Gading Emas Pucat Abu Batu" [ref=e151] [cursor=pointer]:
+            - /url: /products/batik-sidomukti
+            - generic [ref=e152]:
+              - img "Batik Batik Sidomukti" [ref=e153]
+              - generic [ref=e154]: Habis
+            - generic [ref=e155]:
+              - paragraph [ref=e156]: Batik
+              - heading "Batik Batik Sidomukti" [level=3] [ref=e157]
+              - paragraph [ref=e158]: Bambu · 160 gsm
+              - generic [ref=e159]:
+                - generic "Coklat Tanah" [ref=e160]:
+                  - img "Coklat Tanah" [ref=e161]
+                - generic "Krem Gading" [ref=e162]:
+                  - img "Krem Gading" [ref=e163]
+                - generic "Emas Pucat" [ref=e164]:
+                  - img "Emas Pucat" [ref=e165]
+                - generic "Abu Batu" [ref=e166]:
+                  - img "Abu Batu" [ref=e167]
+          - link [ref=e169] [cursor=pointer]:
+            - /url: /products/batik-ceplok
+            - img "Batik Batik Ceplok" [ref=e171]
+            - generic [ref=e172]:
+              - paragraph [ref=e173]: Batik
+              - heading "Batik Batik Ceplok" [level=3] [ref=e174]
+              - paragraph [ref=e175]: Woll · 300 gsm
+              - generic [ref=e176]:
+                - generic "Krem Gading" [ref=e177]:
+                  - img "Krem Gading" [ref=e178]
+                - generic "Emas Pucat" [ref=e179]:
+                  - img "Emas Pucat" [ref=e180]
+                - generic "Abu Batu" [ref=e181]:
+                  - img "Abu Batu" [ref=e182]
+  - contentinfo [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - heading "KAINNUSA" [level=3] [ref=e24]
+          - paragraph [ref=e25]: Katalog kain Indonesia dengan visibilitas produk tanpa kompleksitas checkout.
+        - generic [ref=e26]:
+          - heading "Navigasi" [level=4] [ref=e27]
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - link "Produk" [ref=e30] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=e31]:
+              - link "Best Seller" [ref=e32] [cursor=pointer]:
+                - /url: /best-seller
+            - listitem [ref=e33]:
+              - link "Kontak" [ref=e34] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e35]:
+          - heading "Kategori" [level=4] [ref=e36]
+          - list [ref=e37]:
+            - listitem [ref=e38]:
+              - link "Batik" [ref=e39] [cursor=pointer]:
+                - /url: /products?category=batik
+            - listitem [ref=e40]:
+              - link "Tenun" [ref=e41] [cursor=pointer]:
+                - /url: /products?category=tenun
+            - listitem [ref=e42]:
+              - link "Kaos" [ref=e43] [cursor=pointer]:
+                - /url: /products?category=kaos
+            - listitem [ref=e44]:
+              - link "Muslin" [ref=e45] [cursor=pointer]:
+                - /url: /products?category=muslin
+            - listitem [ref=e46]:
+              - link "Linen" [ref=e47] [cursor=pointer]:
+                - /url: /products?category=linen
+      - generic [ref=e48]: © 2026 KainNusa. Semua hak dilindungi.
+  - link "Chat WhatsApp" [ref=e49] [cursor=pointer]:
+    - /url: https://wa.me/6281234567890
+  - button "Open Next.js Dev Tools" [ref=e57] [cursor=pointer]
+  - alert [ref=e183]
